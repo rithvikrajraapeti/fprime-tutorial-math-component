@@ -5,18 +5,7 @@
       "node_modules/**",
       "dist/**",
       "*.log",
-      ".env"
-    ],
-    "ignoreWords": [
-      "implicit",
-      "double",
-      "precision",
-      "subroutine",
-      "enddo",
-      "endif",
-      "real",
-      "logical",
-      "integer"
-    ],
-    "dictionaries": ["en", "fortran"]
+      "*.env",
+      ".fpp"
+    ]
   }
