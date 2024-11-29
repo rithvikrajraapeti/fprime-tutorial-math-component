@@ -1,0 +1,22 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "ignorePaths": [
+      "node_modules/**",
+      "dist/**",
+      "*.log",
+      ".env"
+    ],
+    "ignoreWords": [
+      "implicit",
+      "double",
+      "precision",
+      "subroutine",
+      "enddo",
+      "endif",
+      "real",
+      "logical",
+      "integer"
+    ],
+    "dictionaries": ["en", "fortran"]
+  }
